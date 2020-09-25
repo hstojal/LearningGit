@@ -1,2 +1,2 @@
 # LearningGit
-Test repository for learning purpose
+Test repository to practice Git
